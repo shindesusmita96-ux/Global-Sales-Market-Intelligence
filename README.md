@@ -6,6 +6,8 @@ Analysis of Global Superstore sales data using SQL Server and Power BI to unders
 
 The project focuses on turning transactional sales data into actionable business insights through three interactive Power BI dashboards.
 
+Dataset Link: https://www.kaggle.com/datasets/fatihilhan/global-superstore-dataset 
+
 ***
 ## Business Problem
 The business needs to evaluate sales and profitability across its products, customers, and global markets to identify key performance drivers, underperforming areas, and operational inefficiencies. The analysis aims to provide data-driven insights that can support decisions around product performance, customer value, market expansion, and operational costs.
