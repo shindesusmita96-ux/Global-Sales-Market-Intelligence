@@ -25,7 +25,8 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 1 - Executive Overview
 **Business Question -** How is the business performing overall, and what are the key drivers of sales and profitability?
 
-**vid**
+**Dashboard:** ![Executive Overview](screenshots/executive overview ss.png) 
+
 
 **Key Findings**
 1. The business generated $12.64M in sales and $1.47M in profit, resulting in an 11.61% profit margin.
@@ -37,7 +38,8 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 2 — Global Market Intelligence
 **Business Question -** Which markets and countries are driving global performance, and where are there opportunities to improve operational efficiency?
 
-**vid**
+**Dashboard:** ![Market Intelligence](screenshots/market intelligence ss.png) 
+
 
 **Key Findings**
 1. APAC contributes the largest share of sales (28.36%), followed by EU (23.24%) and North America (18.70%).
@@ -50,7 +52,8 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 3 — Product & Customer Performance
 **Business Question -** Which products and customers are driving profitability, and where are there opportunities to improve product performance?
 
-**vid**
+**Dashboard:** ![Product Customer](screenshots/product customer ss.png) 
+
 
 **Key Findings**
 1. The business generates an average of $58.62 profit per order.
