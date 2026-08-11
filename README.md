@@ -25,7 +25,7 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 1 - Executive Overview
 **Business Question -** How is the business performing overall, and what are the key drivers of sales and profitability?
 
-**Dashboard:** ![Executive Overview](screenshots/executive overview ss.png) 
+**Dashboard:** ![Executive Overview](screenshots/executive_overview_ss.png)
 
 
 **Key Findings**
@@ -38,7 +38,7 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 2 — Global Market Intelligence
 **Business Question -** Which markets and countries are driving global performance, and where are there opportunities to improve operational efficiency?
 
-**Dashboard:** ![Market Intelligence](screenshots/market intelligence ss.png) 
+**Dashboard:** ![Market Intelligence](screenshots/market_intelligence_ss.png) 
 
 
 **Key Findings**
@@ -52,7 +52,7 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 3 — Product & Customer Performance
 **Business Question -** Which products and customers are driving profitability, and where are there opportunities to improve product performance?
 
-**Dashboard:** ![Product Customer](screenshots/product customer ss.png) 
+**Dashboard:** ![Product Customer](screenshots/product_customer_ss.png) 
 
 
 **Key Findings**
