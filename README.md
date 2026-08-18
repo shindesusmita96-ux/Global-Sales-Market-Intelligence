@@ -25,8 +25,9 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 1 - Executive Overview
 **Business Question -** How is the business performing overall, and what are the key drivers of sales and profitability?
 
-**Dashboard:** ![Executive Overview](screenshots/executive_overview_ss.png)
+**Watch Dashboard 1 Explanation Here:** https://youtu.be/MncMMF5YeH0 
 
+**Dashboard:** ![Executive Overview](screenshots/executive_overview_ss.png)
 
 **Key Findings**
 1. The business generated $12.64M in sales and $1.47M in profit, resulting in an 11.61% profit margin.
@@ -37,6 +38,8 @@ The business needs to evaluate sales and profitability across its products, cust
 
 ### Dashboard 2 — Global Market Intelligence
 **Business Question -** Which markets and countries are driving global performance, and where are there opportunities to improve operational efficiency?
+
+**Watch Dashboard 2 Explanation Here:** https://youtu.be/dHp9SpZheH4 
 
 **Dashboard:** ![Market Intelligence](screenshots/market_intelligence_ss.png) 
 
@@ -52,6 +55,8 @@ The business needs to evaluate sales and profitability across its products, cust
 ### Dashboard 3 — Product & Customer Performance
 **Business Question -** Which products and customers are driving profitability, and where are there opportunities to improve product performance?
 
+**Watch Dashboard 3 Explanation Here:** https://youtu.be/xSFwHgoWg0U 
+
 **Dashboard:** ![Product Customer](screenshots/product_customer_ss.png) 
 
 
@@ -65,7 +70,7 @@ The business needs to evaluate sales and profitability across its products, cust
 
 
 ## Business Recommendations
-- Focus more on high-profit products, especially Technology products, and review products that consistently make a loss.
+- Focus more on high-profit products, especially Technology products, and review products like Printers and Tables that consistently make a loss.
 
 - Review discount levels to make sure discounts are not reducing profit too much.
 
